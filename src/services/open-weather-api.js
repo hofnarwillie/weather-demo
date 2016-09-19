@@ -1,7 +1,7 @@
 import url from './../constants/weather.config.js';
 import nanoajax from 'nanoajax';
 
-export default class swapiData {
+export default class openWeatherApi {
     static getData() {
 
         return new Promise((resolve, reject) => {

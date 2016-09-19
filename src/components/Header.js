@@ -6,7 +6,7 @@ const Header = () => {
         <Navbar inverse fixedTop>
             <Navbar.Header>
                 <Navbar.Brand>
-                    <a href="/">Weather Demo :: React &amp; Redux</a>
+                    Weather App
                 </Navbar.Brand>
             </Navbar.Header>
             <Nav>

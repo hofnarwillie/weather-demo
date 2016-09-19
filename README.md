@@ -15,4 +15,5 @@ A 5 day weather forecast built in React and Redux.
 
 ## TODO:
 
-* Customize Bootstrap using a bespoke SCSS/LESS build
+* Customize Bootstrap using a bespoke SCSS/LESS build.
+* Add HTTP mocking library to test async thunk actions.
