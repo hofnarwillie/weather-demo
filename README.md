@@ -1,6 +1,6 @@
 # weather-demo
 
-A 5 day weather forecast built in React and Redux. (http://weather-demo.pubstorm.site/)[http://weather-demo.pubstorm.site/]
+A 5 day weather forecast built in React and Redux. [http://weather-app-edinburgh.pubstorm.site/](http://weather-app-edinburgh.pubstorm.site/)
 
 The home page contains a weather widget that reads the weather for the next 5 days. It then allows the user to slide through the data and renders the main interest points.
 
@@ -29,6 +29,6 @@ The home page contains a weather widget that reads the weather for the next 5 da
 
 ## Links:
 
-* Live Demo: (http://weather-demo.pubstorm.site/)[http://weather-demo.pubstorm.site/]
-* Travis CI: https://travis-ci.org/hofnarwillie/weather-demo
-* Appveyor: https://ci.appveyor.com/project/hofnarwillie/weather-demo
+* Live Demo: [http://weather-app-edinburgh.pubstorm.site/](http://weather-app-edinburgh.pubstorm.site/)
+* Travis CI: [https://travis-ci.org/hofnarwillie/weather-demo](https://travis-ci.org/hofnarwillie/weather-demo)
+* Appveyor: [https://ci.appveyor.com/project/hofnarwillie/weather-demo](https://ci.appveyor.com/project/hofnarwillie/weather-demo)
