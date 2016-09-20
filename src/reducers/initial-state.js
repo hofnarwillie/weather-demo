@@ -1,3 +1,4 @@
 export default {
-    weather: null
+    weather: null,
+    selectedTime: null
 };

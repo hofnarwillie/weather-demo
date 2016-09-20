@@ -1,5 +1,6 @@
 import React from 'react';
-import { Navbar, Nav, NavItem } from 'react-bootstrap';
+import { Navbar } from 'react-bootstrap';
+import { Link, IndexLink } from 'react-router';
 
 const Header = () => {
     return (
@@ -9,10 +10,11 @@ const Header = () => {
                     Weather App
                 </Navbar.Brand>
             </Navbar.Header>
-            <Nav>
-                <NavItem href="/">Overview</NavItem>
-                <NavItem href="/details">Details</NavItem>
-            </Nav>
+            
+            <ul className="nav navbar-nav">
+                <li><IndexLink to="/">Edinburgh</IndexLink></li>
+                <li><Link to="/search">Find More Cities...</Link></li>
+            </ul>
         </Navbar>
     );
 };

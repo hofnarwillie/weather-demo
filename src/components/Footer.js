@@ -7,7 +7,9 @@ const Footer = () => {
             <Row>
                 <Col>
                     <hr />
-                    <span>The end.</span>
+                    <a>Copyright</a> {"|"} 
+                    <a>Legal</a> {"|"} 
+                    <a>Cookies</a>
                 </Col>
             </Row>
         </Grid>
