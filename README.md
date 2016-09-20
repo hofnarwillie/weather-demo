@@ -20,6 +20,7 @@ The home page contains a weather widget that reads the weather for the next 5 da
 * Add HTTP mocking library to test async thunk actions.
 * Add loading state to the "Refresh" button.
 * Add a Details view that displays all the weather data.
+* Fix the jumpy behaviour in the data table when the content doesn't have the same width.
 * Customize Bootstrap using a bespoke SCSS/LESS build.
 * Add some logic to handle invalid or missing data from the API.
 * Add more unit tests.

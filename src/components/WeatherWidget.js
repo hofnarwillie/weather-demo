@@ -74,12 +74,14 @@ class WeatherWidget extends React.Component{
         return (
             <div>
                 <p className="bg-info app-padding">Slide the bar across to change the selected time.</p>
+                <br />
                 <InputRange 
                     maxValue={this.props.weather.length-1}
                     minValue={0}
                     value={this.state.selectedIndex}
                     onChange={this.handleValueChange}
                 />
+                <br />
                 {this.renderCurrentDataGrid()}
             </div>
         );
