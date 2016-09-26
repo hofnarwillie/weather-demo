@@ -28,6 +28,7 @@ The home page contains a weather widget that reads the weather for the next 5 da
 * Add more unit tests.
 * Ability to choose a different city from a list.
 * Improve UI/UX with some icons/imagery.
+* Hook in test coverage from Travis/Appveyo
 
 ## Links:
 
